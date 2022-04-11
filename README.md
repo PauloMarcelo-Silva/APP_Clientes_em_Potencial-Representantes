@@ -1,7 +1,7 @@
 # APP_Clientes_em_Potencial-Representantes
 ## Aplicativo feito com PoweApp da microsoft + o DataVerse
 
-### Foi um projeto final do curso Formação em Power Platform - Uniesp-PB.
+### projeto final do curso Formação em Power Platform - Uniesp-PB.
 ### Aplicativo onde foi utilizado o PowerApps da microsoft,usando iteração com o dataverse para armazenar cliente e representantes numa tabela de dados,onde o projeto precisava ter os seguintes componentes:
 
 ### O TCC do projeto, consistirá em abordar o assunto aplicativo móvel do tipo tela (Canvas) para Prospecção de Clientes.
